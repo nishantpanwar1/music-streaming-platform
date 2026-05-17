@@ -1,0 +1,6 @@
+com/musicstreamingplatform/musiclibraryservice/repository/MusicFileRepository.class
+com/musicstreamingplatform/musiclibraryservice/config/SecurityConfig.class
+com/musicstreamingplatform/musiclibraryservice/controller/MusicFileController.class
+com/musicstreamingplatform/musiclibraryservice/model/MusicFile.class
+com/musicstreamingplatform/musiclibraryservice/MusicLibraryServiceApplication.class
+com/musicstreamingplatform/musiclibraryservice/service/MusicFileService.class
