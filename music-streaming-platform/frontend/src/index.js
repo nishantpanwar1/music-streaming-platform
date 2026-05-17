@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 function App() {
-  return <div>Hello opencode!</div>;
+  return React.createElement('div', null, 'Hello world!');
 }
 
-ReactDOM.render(<App />, document.getElementById('root'));
+export default App;
